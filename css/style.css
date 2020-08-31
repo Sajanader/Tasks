@@ -1,0 +1,133 @@
+nav{
+     text-decoration-color: cornsilk;
+    border-style: solid; color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: black;
+   border-width: 3px ;
+ 
+ 
+
+}
+a{padding: 150px;
+color: white;
+text-decoration: none;
+font-family: Bahnschrift Condensed;
+text-transform: uppercase;
+font-size: 15px;
+
+}
+
+
+header{ display: block;
+   background-image: url(https://www.w3schools.com/w3images/coffeehouse.jpg);
+   background-position: center;
+ padding-top: 490px;
+ margin: 0px;
+ background-size: 1500px;
+  filter:  grayscale(50%);
+  
+}
+#h1{text-align: center;
+
+color: white;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size: 100px;
+font-family: "Calibri Light";
+ 
+
+}
+#h4right{
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+
+}
+#h4left{ display: inline;
+    color: white;
+    background-color: black;
+
+}
+.heading{ display: inline;
+    color: white;
+    text-align: center;
+    font-family: Calibri Light;
+    font-size: 25px;
+   background-color:black;
+  margin-left: 40%;
+   
+
+}
+#distinct{display: brock;
+  border-left-style: solid; 
+  border-color: grey;
+  background-color: rgb(230, 219, 219);
+  font-style: italic;
+}
+
+.paragraph{ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+   font-family: Calibri Light;
+   letter-spacing: 1px;
+    font-size: 20px;
+}
+
+   
+.image{  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 350px;
+
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 50%;
+  color: white;
+  padding: 27px 73px;
+  margin: 100px;
+  border: none;
+  cursor: pointer;
+}
+
+div {
+
+  padding: 30px;
+  margin-left: 25%;
+    margin-right:30%;
+}
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 0;
+    margin-right: 100%;
+    cursor: pointer;
+   
+
+  }
+footer{
+    text-align: center;
+}
