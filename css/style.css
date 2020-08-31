@@ -71,6 +71,12 @@ font-family: "Calibri Light";
   font-style: italic;
 }
 
+.image{  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 350px;}
+
 .paragraph{ 
     margin-left: auto;
     margin-right: auto;
@@ -81,13 +87,7 @@ font-family: "Calibri Light";
 }
 
    
-.image{  display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
-    height: 350px;
 
-}
 input[type=text], select {
   width: 100%;
   padding: 12px 20px;
