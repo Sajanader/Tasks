@@ -130,3 +130,32 @@ div {
 footer{
     text-align: center;
 }
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+  letter-spacing: 1px;
+  font-size: 20px;
+  
+}
+
+table {
+width: 700px;
+
+  margin-left: auto;
+  margin-right: auto;
+  font-family:  Calibri Light;
+}
+
+th, td {
+ 
+  padding: 15px;
+  margin-bottom: 0px;
+  border-color: white;
+
+}
+th{ background-color: lightgray;
+  text-align:conter;
+  height: 100px;  
+
+}
